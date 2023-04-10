@@ -1,0 +1,12 @@
+var a;
+
+function showHide()
+{
+    if(a==1) {
+        document.getElementById("blogli").style.display="inline";
+        return a=0;
+    } else {
+        document.getElementById("blogli").style.display="none";
+        return a=1;
+    }
+}
