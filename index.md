@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /home/
+permalink: /
 ---
 <h1> Work in progress...</h1>
 <center>
