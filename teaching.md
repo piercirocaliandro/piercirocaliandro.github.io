@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Teaching
+layout: home
 permalink: /teaching/
 ---
 

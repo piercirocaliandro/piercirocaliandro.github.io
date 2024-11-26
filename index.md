@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Welcome
-permalink: /
+permalink: /home/
 ---
 <h1> Work in progress...</h1>
 <center>
